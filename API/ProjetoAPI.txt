@@ -1,0 +1,4 @@
+Instalação do Flask - https://flask.palletsprojects.com/en/2.3.x/installation/
+Tutorial flask - https://flask.palletsprojects.com/en/2.3.x/quickstart/#a-minimal-application
+Instalação SQLAlchemy - https://flask-sqlalchemy.palletsprojects.com/en/3.0.x/quickstart/
+Código base e outras pendências de instalações - https://tutorial101.blogspot.com/2023/04/react-js-and-python-flask-crud-create.html
